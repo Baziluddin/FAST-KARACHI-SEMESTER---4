@@ -27,6 +27,18 @@ Link To Other Semesters :
 | 8 | MT2005 | [Probability And Statistics](https://github.com/Baziluddin/FAST-KARACHI-SEMESTER-4/tree/main/Probability%20And%20Statistics) | 3 |
 | 9 | CS3009 | [Software Design And Analysis](https://github.com/Baziluddin/FAST-KARACHI-SEMESTER-4/tree/main/Software%20Design%20And%20Analysis) | 3 |
 
+----
+## Recommend Channels
+
+1. Database Systems :
+   ▪︎ Gate Smashers.
+
+2. Artificial Intelligence :
+   ▪︎ Gate Smashers.
+
+3. Operating Systems :
+   ▪︎ Gate Smashers.
+
 ---
 
 - 🔗 Useful Websites
