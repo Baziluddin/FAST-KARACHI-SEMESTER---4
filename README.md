@@ -4,7 +4,8 @@ Welcome To Fast 4th semester repository where you can Access Assignment,Quizes a
 ---
 
 Link To Other Semesters :
- 📙 [1st Semester KHI](https://github.com/Baziluddin/Fast-karachi-SEMESTER-1/tree/main)
+
+- 📙 [1st Semester KHI](https://github.com/Baziluddin/Fast-karachi-SEMESTER-1/tree/main)
 
 - 📙 [2nd Semester KHI](https://github.com/Baziluddin/Fast-Karachi-Semester-2/tree/main)
    
