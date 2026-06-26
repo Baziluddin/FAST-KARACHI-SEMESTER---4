@@ -28,16 +28,19 @@ Link To Other Semesters :
 | 9 | CS3009 | [Software Design And Analysis](https://github.com/Baziluddin/FAST-KARACHI-SEMESTER-4/tree/main/Software%20Design%20And%20Analysis) | 3 |
 
 ----
-## Recommend Channels
+##  🎥 Recommend Channels
 
-1. Database Systems :
-   ▪︎ Gate Smashers.
+1. Database Systems 
 
-2. Artificial Intelligence :
-   ▪︎ Gate Smashers.
+▪︎ Gate Smashers.
 
-3. Operating Systems :
-   ▪︎ Gate Smashers.
+3. Artificial Intelligence
+   
+▪︎ Gate Smashers.
+
+5. Operating Systems
+   
+▪︎ Gate Smashers.
 
 ---
 
