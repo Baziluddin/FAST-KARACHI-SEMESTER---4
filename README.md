@@ -4,10 +4,13 @@ Welcome To Fast 4th semester repository where you can Access Assignment,Quizes a
 ---
 
 Link To Other Semesters :
-- 1st Semester : https://github.com/Baziluddin/Fast-karachi-SEMESTER-1/tree/main
+ 📙 [1st Semester KHI](https://github.com/Baziluddin/Fast-karachi-SEMESTER-1/tree/main)
 
-- 2nd semester : https://github.com/Baziluddin/Fast-Karachi-Semester-2/tree/main
+- 📙 [2nd Semester KHI](https://github.com/Baziluddin/Fast-Karachi-Semester-2/tree/main)
+   
+- 📙 [3rd Semester KHI](https://github.com/Baziluddin/3rd-Semester-)
   
+---
 
 📚 Semester 4
 
@@ -23,13 +26,13 @@ Link To Other Semesters :
 | 8 | MT2005 | [Probability And Statistics](https://github.com/Baziluddin/FAST-KARACHI-SEMESTER-4/tree/main/Probability%20And%20Statistics) | 3 |
 | 9 | CS3009 | [Software Design And Analysis](https://github.com/Baziluddin/FAST-KARACHI-SEMESTER-4/tree/main/Software%20Design%20And%20Analysis) | 3 |
 
+---
+
 - 🔗 Useful Websites
 
 - Wonder.site – FAST resources
-- Quizlet – Study flashcards
 - GeeksforGeeks – Programming
 - W3Schools – Web Development
-- Overleaf – LaTeX reports
 - Canva – Presentations
 
 ---
@@ -37,8 +40,6 @@ Link To Other Semesters :
 - 🛠 Useful Tools
 
 - ChatGPT
-- Notion
 - GitHub
 - VS Code
 - Draw.io
-- Figma
