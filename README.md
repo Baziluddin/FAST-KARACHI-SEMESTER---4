@@ -3,6 +3,12 @@ Welcome To Fast 4th semester repository where you can Access Assignment,Quizes a
 
 ---
 
+Link To Other Semesters :
+- 1st Semester : https://github.com/Baziluddin/Fast-karachi-SEMESTER-1/tree/main
+
+- 2nd semester : https://github.com/Baziluddin/Fast-Karachi-Semester-2/tree/main
+  
+
 📚 Semester 4
 
 | # | Code | Course Name | CrdHrs |
